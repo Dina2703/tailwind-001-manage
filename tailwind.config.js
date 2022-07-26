@@ -12,7 +12,7 @@ module.exports = {
     //defining custom colors.
     extend: {
       colors: {
-        brighRed: "hsl(12, 88%, 59%)",
+        brightRed: "hsl(12, 88%, 59%)",
         brighRedLight: "hsl(12, 88%,69%)",
         brighRedSupLight: "hsl(12, 88%, 95%)",
         darkBlue: "hsl(228, 39%, 23%)",
